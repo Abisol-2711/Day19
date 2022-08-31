@@ -51,7 +51,7 @@ Pagina 404 Not found.
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Linkedin [your-website.com](https://www.linkedin.com/in/sol-r%C3%A1zuri-fullstackdeveloper/)
-- GitHub [@your-username](https://github.com/Abisol-2711)
+- [Linkedin](https://www.linkedin.com/in/sol-r%C3%A1zuri-fullstackdeveloper/)
+- [GitHub](https://github.com/Abisol-2711)
